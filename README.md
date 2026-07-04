@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm mhammad 👋</h1>
+<h1 align="center">Hi there, I'm Muhammad 👋</h1>
 
 <h3 align="center">Software Developer | Data & ML Enthusiast | Problem Solver</h3>
 
@@ -47,6 +47,16 @@
 
 ---
 
+### 🌆 3D Contribution Calendar
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph">
+  </picture>
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -79,3 +89,4 @@
 </p>
 
 <p align="center"><i>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></i></p>
+
